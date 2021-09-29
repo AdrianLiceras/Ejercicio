@@ -25,7 +25,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:maxLines="1"
-            android:text="Esto es un asunto muy largo" />
+            android:text="Esto es un asunto muy largo"
+            android:ellipsize="end"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
