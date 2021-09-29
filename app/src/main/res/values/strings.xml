@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ejercicio</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="estrellita">Estrellita</string>
+    <string name="asunto">Asunto</string>
+    <string name="contenido">Contenido</string>
+    <string name="fecha">Fecha</string>
 </resources>

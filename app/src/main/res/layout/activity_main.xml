@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/white"
-        android:text="Editar Perfil"
+        android:text="@string/editar_perfil"
         android:textColor="@color/black"
         android:layout_margin="10dp"
         />
@@ -50,20 +50,24 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="10dp"
         android:layout_weight="1"
-        android:text="Followers" />
+        android:text="@string/followers" />
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="10dp"
         android:layout_weight="1"
-        android:text="Following" />
+        android:text="@string/following" />
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="10dp"
         android:layout_weight="1"
-        android:text="Estrellita" />
+        android:text="@string/estrellita" />
     </LinearLayout>
+
+
+
+
 </LinearLayout>
