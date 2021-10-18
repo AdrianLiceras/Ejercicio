@@ -10,18 +10,18 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         >
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="BACK"/>
-    <Space
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"/>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="CONTINUE"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"/>
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CONTINUE"/>
     </LinearLayout>
 
     <TextView
@@ -33,7 +33,7 @@
 <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="This is a reallyyyyyyyyyyyyyyyyyyyyy long text"
+    android:text="This is a reallyyyyyyyyyyyyyyyyyyyyyyyyyyyyy long text"
     android:layout_marginStart="20dp"
     android:layout_marginEnd="10dp"
     android:layout_gravity="center"
@@ -44,7 +44,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="LOG OUT"
-        android:layout_gravity="right"
+        android:layout_gravity="end"
         />
 
 

@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/Ejercicio/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/Ejercicio/app/src/main/res/layout/constraint_intro_layout.xml" value="0.25" />
         <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/Ejercicio/app/src/main/res/layout/ejercicio_email.xml" value="0.33" />
-        <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/Ejercicio/app/src/main/res/layout/ejercicio_space.xml" value="0.25" />
+        <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/Ejercicio/app/src/main/res/layout/ejercicio_space.xml" value="0.2140077821011673" />
+        <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/Ejercicio/app/src/main/res/layout/pop_up.xml" value="0.33" />
       </map>
     </option>
   </component>

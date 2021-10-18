@@ -7,4 +7,8 @@
     <string name="asunto">Asunto</string>
     <string name="contenido">Contenido</string>
     <string name="fecha">Fecha</string>
+    <string name="hello_world">Hello World</string>
+    <string name="esto_es_un_titulo">Esto es un titulo</string>
+    <string name="texto_largo">Esto es el cuerpo del texto que puede ser muyyyyyyyyyy largo</string>
+    <string name="haz_algo">Haz algo</string>
 </resources>
